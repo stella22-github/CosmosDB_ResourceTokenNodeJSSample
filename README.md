@@ -9,6 +9,9 @@ Generate resource token using nodejs SDK.
 Pass in the resource token then read the data using resource token.
  ![image](https://github.com/user-attachments/assets/1ff29b29-4906-4129-b2b4-816d722a3d14)
 
+Check for resource token expire sample code.
+![image](https://github.com/user-attachments/assets/16c7eb20-a732-484a-8737-36b75e3c18c5)
+
 
 Ref doc: 
 https://learn.microsoft.com/en-us/azure/cosmos-db/secure-access-to-data?tabs=using-primary-key#differences-between-rbac-and-resource-tokens
